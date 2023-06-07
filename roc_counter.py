@@ -1,10 +1,6 @@
-# Script 4: ROC Curves ----------------------------------------------------------------
-
-# Study Details -----------------------------------------------------------
-# Title: "Assessing the performance of ten pathogenicity prediction algorithms on a dataset of missense brca2 and brca2 mutations."
+# Title: Generate ROC
 # Author: Bertalan Takács
 # Date: 16/05/2022
-# Laboratory: HCEMM-BRC Mutagenesis and Carcinogenesis Research Group, Institute of Genetics, Biological Research Centre, Szeged H-6726, Hungary.
 
 from sys import argv
 import os
